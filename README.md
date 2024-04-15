@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigundim&label=Profile%20views&color=0e75b6&style=flat" alt="abhigundim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhigundim" alt="abhigundim" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <a href="https://twitter.com/abhigundim" target="blank"><img src="https://img.shields.io/twitter/follow/abhigundim?logo=twitter&style=for-the-badge" alt="abhigundim" /></a> </p>
 
